@@ -1,0 +1,16 @@
+[
+{
+  "modid": "equipmentstrengthening",
+  "name": "EquipmentStrengthening",
+  "description": "A mod use for Equipment Strengthening.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Saltfish_Sheep"],
+  "credits": "Just a mod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["SheepLib(From 1.0)"]
+}
+]
